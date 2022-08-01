@@ -1,0 +1,13 @@
+package com.Egg.eggNews1;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class EggNews1Application {
+
+	public static void main(String[] args) {
+		SpringApplication.run(EggNews1Application.class, args);
+	}
+
+}
